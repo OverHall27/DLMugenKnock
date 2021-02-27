@@ -4,7 +4,6 @@ np.random.seed(0)
 
 xs = np.array(((0,0), (0,1), (1,0), (1,1)), dtype=np.float32)
 ts = np.array(((-1), (-1), (-1), (1)), dtype=np.float32)
-
 lr = 0.1
 
 # perceptron
